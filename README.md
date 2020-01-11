@@ -18,5 +18,7 @@ https://www.facebook.com/groups/commitjs
 or follow us on youtube:
 https://www.youtube.com/channel/UCvJngW6xbbRkLMYs65FYEiQ
 
+Source code: https://github.com/commitjs/commit-5
+
 Speaker: Iliya Idakiev
 Panellists: Aleksander Kostov, Hristyan Hristov.
